@@ -1,3 +1,8 @@
+# programmers 
+# exercise for coding test
+# lotto 
+# https://programmers.co.kr/learn/courses/30/lessons/77484
+
 def solution(lottos, win_nums):
     answer = []
     rank = [6,6,5,4,3,2,1]
