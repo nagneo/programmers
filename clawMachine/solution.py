@@ -1,3 +1,5 @@
+#https://programmers.co.kr/learn/courses/30/lessons/64061
+
 def solution(board, moves):
     answer = 0
     reverse = []
@@ -11,7 +13,7 @@ def solution(board, moves):
         item = getItem(reverse[col - 1])
         if item is not 0:
             basket.append(item)
-            while IsDuplicated(basket):
+            while isDuplicated(basket):
                 answer += 2
                 basket.pop()
                 basket.pop()
@@ -32,7 +34,7 @@ def getItem(list):
         item = list.pop(0)
     return item
 
-def IsDuplicated(list):
+def isDuplicated(list):
     if len(list) < 2:
         return False
     else:
