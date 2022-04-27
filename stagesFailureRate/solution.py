@@ -1,5 +1,4 @@
-import operator
-
+#https://programmers.co.kr/learn/courses/30/lessons/42889
 def solution(N, stages):
     
     answer = []
@@ -15,10 +14,8 @@ def solution(N, stages):
         
         failRateMap[n] = rate
         
-    sorted_dict = sorted(failRateMap.items(), key=operator.itemgetter(1),reverse=True)
-    for p in sorted_dict:
-        answer.append(p[0])
-        
+    answer = sorted(failRateMap, key=lambda x : failRateMap[x], reverse=True)
+      
     return answer
 
 print(solution(5, [2,1,2,6,2,4,3,3]))
