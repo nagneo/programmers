@@ -13,13 +13,15 @@ def solution(places):
                 for p in points:
                     if waitingRoom[p[0]][p[1]] == 'X':
                         continue
-                    
+                    elif waitingRoom[p[0]][p[1]] == 'P':
+                        isFail = True;
+                        break;
                     #manhatten
                     manhattenDistPoints = getPointsToCheck(p[0],p[1])
                     for distP in manhattenDistPoints:
                         if distP == (x,y):
                             continue
-                        
+
                         if waitingRoom[distP[0]][distP[1]] == 'P':
                             isFail = True;
                             break;
