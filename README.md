@@ -193,3 +193,16 @@ Problem solving on a website 'Programmers'
 * 요약: 마라톤에 참여한 선수들의 배열과 완주한 선수들의 배열이 주어질 때 완주하지 못한 선수의 이름을 찾는 문제 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42576)
 * 문제 모음: 해시
 * 난이도: Level 1
+
+
+## 21. ternaryNumberSystem - 삼진법 뒤집기
+
+* 요약: 자연수 n이 매개변수로 주어집니다. n을 3진법 상에서 앞뒤로 뒤집은 후, 이를 다시 10진법으로 표현한 수를 return 하도록 solution 함수를 완성해주세요. [바로가기](https://programmers.co.kr/learn/courses/30/lessons/68935)
+* 문제 모음: 월간 코드 챌린지 시즌 1
+* 난이도: Level 1
+
+## 22. submultipleNumber - 약수의 개수
+
+* 요약: a부터 b까지의 범위가 주어질 때, 약수의 개수가 짝수인 수와 홀수인 수를 구하는 문제 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/77884)
+* 문제 모음: 월간 코드 챌린지 시즌 2
+* 난이도: Level 1
