@@ -195,13 +195,28 @@ Problem solving on a website 'Programmers'
 * 난이도: Level 1
 
 
-## 21. ternaryNumberSystem - 삼진법 뒤집기
+## 21. tracksuit - 체육복
+
+* 요약: 여분의 체육복을 가진 학생과 체육복을 도난당한 학생의 개수가 주어질 때, 가장 많은 학생이 체육복을 입을 수 있는 방법 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42862)
+* 문제 모음: 탐욕법
+* 난이도: Level 1
+
+
+## 22. ternaryNumberSystem - 삼진법 뒤집기
 
 * 요약: 자연수 n이 매개변수로 주어집니다. n을 3진법 상에서 앞뒤로 뒤집은 후, 이를 다시 10진법으로 표현한 수를 return 하도록 solution 함수를 완성해주세요. [바로가기](https://programmers.co.kr/learn/courses/30/lessons/68935)
 * 문제 모음: 월간 코드 챌린지 시즌 1
 * 난이도: Level 1
 
-## 22. submultipleNumber - 약수의 개수
+
+## 23. selectRandomizedTwoNumberAndSum - 두개 뽑아서 더하기
+
+* 요약: 정수 배열 numbers가 주어집니다. numbers에서 서로 다른 인덱스에 있는 두 개의 수를 뽑아 더해서 만들 수 있는 모든 수를 배열에 오름차순으로 담아 return 하도록 solution 함수를 완성해주세요. [바로가기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+* 문제 모음: 월간 코드 챌린지 시즌 1
+* 난이도: Level 1
+
+
+## 24. submultipleNumber - 약수의 개수
 
 * 요약: a부터 b까지의 범위가 주어질 때, 약수의 개수가 짝수인 수와 홀수인 수를 구하는 문제 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/77884)
 * 문제 모음: 월간 코드 챌린지 시즌 2
