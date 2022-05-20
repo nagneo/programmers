@@ -233,3 +233,9 @@ Problem solving on a website 'Programmers'
 * 요약: 배열이 주어질 때, 인접한 숫가 간의 중복을 제거하는 문제 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12906)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 27. budget - 예산
+
+* 요약: 각 부서의 예산과 총 예산이 주어질때, 가장 많은 부서가 지원받을 때 부서의 개수를 구하는 문제 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12906)
+* 문제 모음: Summer/Winder Coding (~2018)
+* 난이도: Level 1
