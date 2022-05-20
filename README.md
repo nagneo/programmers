@@ -227,3 +227,9 @@ Problem solving on a website 'Programmers'
 * 요약: 배열과 배열의 범위 및 Kth번째 수를 구하는 명령어가 여러개 주어질 때, K번째 수(답)을 배열로 반환하는 문제 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42748)
 * 문제 모음: 정렬
 * 난이도: Level 1
+
+## 26. hateDuplication - 같은 숫자는 싫어
+
+* 요약: 배열이 주어질 때, 인접한 숫가 간의 중복을 제거하는 문제 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12906)
+* 문제 모음: 연습문제
+* 난이도: Level 1
