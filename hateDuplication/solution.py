@@ -10,5 +10,5 @@ def solution(arr):
             
     return result
 
-print(solution([1,1,3,3,0,1,1,2]))
-print(solution([4,4,4,3,3]))
+#print(solution([1,1,3,3,0,1,1,2]))
+#print(solution([4,4,4,3,3]))
