@@ -221,3 +221,9 @@ Problem solving on a website 'Programmers'
 * 요약: a부터 b까지의 범위가 주어질 때, 약수의 개수가 짝수인 수와 홀수인 수를 구하는 문제 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/77884)
 * 문제 모음: 월간 코드 챌린지 시즌 2
 * 난이도: Level 1
+
+## 25. KthNumber - K번째 수
+
+* 요약: 배열과 배열의 범위 및 Kth번째 수를 구하는 명령어가 여러개 주어질 때, K번째 수(답)을 배열로 반환하는 문제 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42748)
+* 문제 모음: 정렬
+* 난이도: Level 1
