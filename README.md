@@ -245,3 +245,9 @@ Problem solving on a website 'Programmers'
 * 요약: 문자열이 주어질때 하나또는 두개의 가운데 글자를 반환하는 문제  [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12903)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 29. yearOf2016 - 2016
+
+* 요약: 20216년 1월 1일이 금요일일때 a월 b일의 요일 구하기 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12901)
+* 문제 모음: 연습문제
+* 난이도: Level 1
