@@ -251,3 +251,9 @@ Problem solving on a website 'Programmers'
 * 요약: 20216년 1월 1일이 금요일일때 a월 b일의 요일 구하기 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12901)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 30. pokemon 
+
+* 요약: 중복을 포함한 N개의 포켓몬에서 N/2의 포케몬을 데려갈 때, 가장 많은 포케몬을 선택하는 경우의 포케몬의 수  구하기 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/1845)
+* 문제 모이므: 찾아라 프로그래밍 마에스터
+* 난이도: Level 1
