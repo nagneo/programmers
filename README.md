@@ -257,3 +257,9 @@ Problem solving on a website 'Programmers'
 * 요약: 중복을 포함한 N개의 포켓몬에서 N/2의 포케몬을 데려갈 때, 가장 많은 포케몬을 선택하는 경우의 포케몬의 수  구하기 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/1845)
 * 문제 모이므: 찾아라 프로그래밍 마에스터
 * 난이도: Level 1
+
+## 31. minimumRect - 최소직사각형 
+
+* 요약: 카드의 가로 세열이 세트가 배열로 주어질 때, 모든 카드를 넣을 수 있는 최소 직사각형의 크기를 구하는 문제  구하기 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/86491)
+* 문제 모이므: 위클리 챌린지
+* 난이도: Level 1
