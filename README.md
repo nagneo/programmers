@@ -281,6 +281,6 @@ Problem solving on a website 'Programmers'
 
 ## 34. divisor - 나누어 떨어지는 숫자 배열
 
-* 요약: array의 각 element중 divisor로 나누어 떨어지는 값을 오름 차순으로 정렬한 배열을 반환하는 함수를 작성하라 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/82612)
+* 요약: array의 각 element중 divisor로 나누어 떨어지는 값을 오름 차순으로 정렬한 배열을 반환하는 함수를 작성하라 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12910)
 * 문제 모이므: 연습문제
 * 난이도: Level 1
