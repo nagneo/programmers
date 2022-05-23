@@ -263,3 +263,10 @@ Problem solving on a website 'Programmers'
 * 요약: 카드의 가로 세열이 세트가 배열로 주어질 때, 모든 카드를 넣을 수 있는 최소 직사각형의 크기를 구하는 문제  구하기 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/86491)
 * 문제 모이므: 위클리 챌린지
 * 난이도: Level 1
+
+
+## 32. remainder1 - 나머지가 1이 되는 수 찾기 
+
+* 요약: 나머지가 1이 되는 가장 작은 수 찾기 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/87389)
+* 문제 모이므: 월간 코드 챌린지 3
+* 난이도: Level 1
