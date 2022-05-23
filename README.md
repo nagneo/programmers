@@ -270,3 +270,10 @@ Problem solving on a website 'Programmers'
 * 요약: 나머지가 1이 되는 가장 작은 수 찾기 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/87389)
 * 문제 모이므: 월간 코드 챌린지 3
 * 난이도: Level 1
+
+
+## 33. insufficientMoney - 부족한 금액 계산하기 
+
+* 요약: 최초 놀이기구의 금액과 이용획수 그리고 가진 돈이 매개 변수로 주어진 상황에서, n번 이용시의 이용금액이 n배 씩 늘어난다고 할 때 모자란 금액을 반환하는 함수를 작성하라  [바로가기](https://programmers.co.kr/learn/courses/30/lessons/82612)
+* 문제 모이므: 위클리 챌린지
+* 난이도: Level 1
