@@ -255,32 +255,38 @@ Problem solving on a website 'Programmers'
 ## 30. pokemon 
 
 * 요약: 중복을 포함한 N개의 포켓몬에서 N/2의 포케몬을 데려갈 때, 가장 많은 포케몬을 선택하는 경우의 포케몬의 수  구하기 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/1845)
-* 문제 모이므: 찾아라 프로그래밍 마에스터
+* 문제 모음: 찾아라 프로그래밍 마에스터
 * 난이도: Level 1
 
 ## 31. minimumRect - 최소직사각형 
 
 * 요약: 카드의 가로 세열이 세트가 배열로 주어질 때, 모든 카드를 넣을 수 있는 최소 직사각형의 크기를 구하는 문제  구하기 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/86491)
-* 문제 모이므: 위클리 챌린지
+* 문제 모음: 위클리 챌린지
 * 난이도: Level 1
 
 
 ## 32. remainder1 - 나머지가 1이 되는 수 찾기 
 
 * 요약: 나머지가 1이 되는 가장 작은 수 찾기 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/87389)
-* 문제 모이므: 월간 코드 챌린지 3
+* 문제 모음: 월간 코드 챌린지 3
 * 난이도: Level 1
 
 
 ## 33. insufficientMoney - 부족한 금액 계산하기 
 
 * 요약: 최초 놀이기구의 금액과 이용획수 그리고 가진 돈이 매개 변수로 주어진 상황에서, n번 이용시의 이용금액이 n배 씩 늘어난다고 할 때 모자란 금액을 반환하는 함수를 작성하라  [바로가기](https://programmers.co.kr/learn/courses/30/lessons/82612)
-* 문제 모이므: 위클리 챌린지
+* 문제 모음: 위클리 챌린지
 * 난이도: Level 1
 
 
 ## 34. divisor - 나누어 떨어지는 숫자 배열
 
 * 요약: array의 각 element중 divisor로 나누어 떨어지는 값을 오름 차순으로 정렬한 배열을 반환하는 함수를 작성하라 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12910)
-* 문제 모이므: 연습문제
+* 문제 모음: 연습문제
+* 난이도: Level 1
+
+## 35. sumOfRange - 두 정수 사이의 합
+
+* 요약: a두 정수 a, b가 주어졌을 때 a와 b 사이에 속한 모든 정수의 합을 리턴하는 함수, solution을 완성하세요.[바로가기](https://programmers.co.kr/learn/courses/30/lessons/12912)
+* 문제 모음: 연습문제
 * 난이도: Level 1
