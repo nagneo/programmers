@@ -296,3 +296,9 @@ Problem solving on a website 'Programmers'
 * 요약: 문자열로 구성된 리스트 strings와, 정수 n이 주어졌을 때, 각 문자열의 인덱스 n번째 글자를 기준으로 오름차순 정렬하기 [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12915)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 36. countPandY - 문자열 내 p와 y의 개수
+
+* 요약: 문자열에서 P와 Y의 개수를 비교하여 같으면 True, 아니면 False를 리턴하는 함수를 작성하세요. 단, 대소문자는 구분하지 않습니다. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
+* 문제 모음: 연습문제
+* 난이도: Level 1
