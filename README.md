@@ -302,3 +302,9 @@ Problem solving on a website 'Programmers'
 * 요약: 문자열에서 P와 Y의 개수를 비교하여 같으면 True, 아니면 False를 리턴하는 함수를 작성하세요. 단, 대소문자는 구분하지 않습니다. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 37. basicOfString - 문자열 다루기 기본
+
+* 요약: 문자열 s의 길이가 4 혹은 6이고, 숫자로만 구성돼있는지 확인해주는 함수, solution을 완성하세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12918)
+* 문제 모음: 연습문제
+* 난이도: Level 1
