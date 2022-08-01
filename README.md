@@ -308,3 +308,9 @@ Problem solving on a website 'Programmers'
 * 요약: 문자열 s의 길이가 4 혹은 6이고, 숫자로만 구성돼있는지 확인해주는 함수, solution을 완성하세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12918)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 38. findingKimSeoBang - 서울에서 김서방찾기
+
+* 요약: String형 배열 seoul의 element중 "Kim"의 위치 x를 찾아, "김서방은 x에 있다"는 String을 반환하는 함수, solution을 완성하세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)
+* 문제 모음: 연습문제
+* 난이도: Level 1
