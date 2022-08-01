@@ -320,3 +320,9 @@ Problem solving on a website 'Programmers'
 * 요약: 1부터 입력받은 숫자 n 사이에 있는 소수의 개수를 반환하는 함수, solution을 만들어 보세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 40. watermelonPattern - 수박수박수박수박수박수?
+
+* 요약: 길이가 n이고, "수박수박수박수...."와 같은 패턴을 유지하는 문자열을 리턴하는 함수, solution을 완성하세요.  [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12922)
+* 문제 모음: 연습문제
+* 난이도: Level 1
