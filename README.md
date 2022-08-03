@@ -327,8 +327,14 @@ Problem solving on a website 'Programmers'
 * 문제 모음: 연습문제
 * 난이도: Level 1
 
-## 41. chnageStringToInteger - 문자열을 정수로 바꾸기
+## 41. changeStringToInteger - 문자열을 정수로 바꾸기
 
 * 요약: 문자열 s를 숫자로 변환한 결과를 반환하는 함수, solution을 완성하세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)
+* 문제 모음: 연습문제
+* 난이도: Level 1
+
+## 42. casesarCipher - 시저암호
+
+* 요약: 문자열 s와 거리 n을 입력받아 s를 n만큼 민 암호문을 만드는 함수, solution을 완성해 보세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
 * 문제 모음: 연습문제
 * 난이도: Level 1
