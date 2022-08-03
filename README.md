@@ -350,3 +350,9 @@ Problem solving on a website 'Programmers'
 * 요약:각 단어의 짝수번째 알파벳은 대문자로, 홀수번째 알파벳은 소문자로 바꾼 문자열을 리턴하는 함수, solution을 완성하세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 44. sumOfDigits - 자릿수더하기
+
+* 요약:자연수 N이 주어지면, N의 각 자릿수의 합을 구해서 return 하는 solution 함수를 만들어 주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)
+* 문제 모음: 연습문제
+* 난이도: Level 1
