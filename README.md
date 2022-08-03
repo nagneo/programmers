@@ -344,3 +344,9 @@ Problem solving on a website 'Programmers'
 * 요약:정수 n을 입력받아 n의 약수를 모두 더한 값을 리턴하는 함수, solution을 완성해주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12928)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 44. makeStrangeString - 이상한 문자 만들기
+
+* 요약:각 단어의 짝수번째 알파벳은 대문자로, 홀수번째 알파벳은 소문자로 바꾼 문자열을 리턴하는 함수, solution을 완성하세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
+* 문제 모음: 연습문제
+* 난이도: Level 1
