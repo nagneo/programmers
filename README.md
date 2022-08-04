@@ -369,25 +369,25 @@ Problem solving on a website 'Programmers'
 * 문제 모음: 연습문제
 * 난이도: Level 1
 
-## 47. evenAndOdd - 짝수와 홀수
+## 48. evenAndOdd - 짝수와 홀수
 
 * 요약:정수 num이 짝수일 경우 "Even"을 반환하고 홀수인 경우 "Odd"를 반환하는 함수, solution을 완성해주세요.[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12937)
 * 문제 모음: 연습문제
 * 난이도: Level 1
 
-## 48. average - 평균 구하기
+## 49. average - 평균 구하기
 
 * 요약:정수를 담고 있는 배열 arr의 평균값을 return하는 함수, solution을 완성해보세요.[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)
 * 문제 모음: 연습문제
 * 난이도: Level 1
 
-## 49. hidePhoneNumber - 핸드폰 번호 가리기
+## 50. hidePhoneNumber - 핸드폰 번호 가리기
 
 * 요약:전화번호의 뒷 4자리를 제외한 나머지 숫자를 전부 *으로 가린 문자열을 리턴하는 함수, solution을 완성해주세요.[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
 * 문제 모음: 연습문제
 * 난이도: Level 1
 
-## 50. checkSquareRoot - 정수 제곱근 판별
+## 51. checkSquareRoot - 정수 제곱근 판별
 
 * 요약:n이 양의 정수 x의 제곱이라면 x+1의 제곱을 리턴하고, n이 양의 정수 x의 제곱이 아니라면 -1을 리턴하는 함수를 완성하세요.[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12934)
 * 문제 모음: 연습문제
