@@ -380,3 +380,9 @@ Problem solving on a website 'Programmers'
 * 요약:정수를 담고 있는 배열 arr의 평균값을 return하는 함수, solution을 완성해보세요.[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 49. hidePhoneNumber - 핸드폰 번호 가리기
+
+* 요약:전화번호의 뒷 4자리를 제외한 나머지 숫자를 전부 *으로 가린 문자열을 리턴하는 함수, solution을 완성해주세요.[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
+* 문제 모음: 연습문제
+* 난이도: Level 1
