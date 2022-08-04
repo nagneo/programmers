@@ -374,3 +374,9 @@ Problem solving on a website 'Programmers'
 * 요약:정수 num이 짝수일 경우 "Even"을 반환하고 홀수인 경우 "Odd"를 반환하는 함수, solution을 완성해주세요.[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12937)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 48. average - 평균 구하기
+
+* 요약:정수를 담고 있는 배열 arr의 평균값을 return하는 함수, solution을 완성해보세요.[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)
+* 문제 모음: 연습문제
+* 난이도: Level 1
