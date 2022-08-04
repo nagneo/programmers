@@ -333,7 +333,7 @@ Problem solving on a website 'Programmers'
 * 문제 모음: 연습문제
 * 난이도: Level 1
 
-## 42. casesarCipher - 시저암호
+## 42. caesarCipher - 시저암호
 
 * 요약: 문자열 s와 거리 n을 입력받아 s를 n만큼 민 암호문을 만드는 함수, solution을 완성해 보세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
 * 문제 모음: 연습문제
@@ -351,8 +351,14 @@ Problem solving on a website 'Programmers'
 * 문제 모음: 연습문제
 * 난이도: Level 1
 
-## 44. sumOfDigits - 자릿수더하기
+## 45. sumOfDigits - 자릿수더하기
 
 * 요약:자연수 N이 주어지면, N의 각 자릿수의 합을 구해서 return 하는 solution 함수를 만들어 주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)
+* 문제 모음: 연습문제
+* 난이도: Level 1
+
+## 46. reversedStringToArray - 자연수 뒤집어 배열로 만들기
+
+* 요약:자연수 n을 뒤집어 각 자리 숫자를 원소로 가지는 배열 형태로 리턴해주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
 * 문제 모음: 연습문제
 * 난이도: Level 1
