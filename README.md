@@ -362,3 +362,9 @@ Problem solving on a website 'Programmers'
 * 요약:자연수 n을 뒤집어 각 자리 숫자를 원소로 가지는 배열 형태로 리턴해주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 47. descendingOrderOfInt - 정수 내림차순으로 배치하기
+
+* 요약:n의 각 자릿수를 큰것부터 작은 순으로 정렬한 새로운 정수를 리턴해주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)
+* 문제 모음: 연습문제
+* 난이도: Level 1
