@@ -410,3 +410,9 @@ Problem solving on a website 'Programmers'
 * 요약: 두 수를 입력받아 두 수의 최대공약수와 최소공배수를 반환하는 함수, solution을 완성해 보세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 55. harshadNumber - 하샤드 수
+
+* 요약: 양의 정수 x가 하샤드 수이려면 x의 자릿수의 합으로 x가 나누어져야 합니다. 자연수 x를 입력받아 x가 하샤드 수인지 아닌지 검사하는 함수, solution을 완성해주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12947)
+* 문제 모음: 연습문제
+* 난이도: Level 1
