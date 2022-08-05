@@ -404,3 +404,9 @@ Problem solving on a website 'Programmers'
 * 요약: 콜라츠 추측으로 주어진 수를 1로 만들기 위해 몇 번이나 반복해야 하는지 반환하는 함수, solution을 완성해 주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12943)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 54. GCDAndLCM - 최대공약수와 최소공배수
+
+* 요약: 두 수를 입력받아 두 수의 최대공약수와 최소공배수를 반환하는 함수, solution을 완성해 보세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
+* 문제 모음: 연습문제
+* 난이도: Level 1
