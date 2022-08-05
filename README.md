@@ -392,3 +392,9 @@ Problem solving on a website 'Programmers'
 * 요약:n이 양의 정수 x의 제곱이라면 x+1의 제곱을 리턴하고, n이 양의 정수 x의 제곱이 아니라면 -1을 리턴하는 함수를 완성하세요.[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12934)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 52. removeSmallest - 제일 작은 수 제거하기
+
+* 요약:정수를 저장한 배열, arr 에서 가장 작은 수를 제거한 배열을 리턴하는 함수, solution을 완성해주세요.[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)
+* 문제 모음: 연습문제
+* 난이도: Level 1
