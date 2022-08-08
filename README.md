@@ -422,3 +422,9 @@ Problem solving on a website 'Programmers'
 * 요약: 2개의 행렬 arr1과 arr2를 입력받아, 행렬 덧셈의 결과를 반환하는 함수, solution을 완성해주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12950)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 57. makelistForMultipleOfN - x만큼 간격이 있는 n개의 숫자
+
+* 요약: 2함수 solution은 정수 x와 자연수 n을 입력 받아, x부터 시작해 x씩 증가하는 숫자를 n개 지니는 리스트를 반환하는 함수, solution을 완성해주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12954)
+* 문제 모음: 연습문제
+* 난이도: Level 1
