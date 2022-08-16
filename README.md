@@ -428,3 +428,10 @@ Problem solving on a website 'Programmers'
 * 요약: 2함수 solution은 정수 x와 자연수 n을 입력 받아, x부터 시작해 x씩 증가하는 숫자를 n개 지니는 리스트를 반환하는 함수, solution을 완성해주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12954)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 57. starRectangle - 직사각형 별찍기 
+
+* 요약: 이 문제에는 표준 입력으로 두 개의 정수 n과 m이 주어집니다.
+별(*) 문자를 이용해 가로의 길이가 n, 세로의 길이가 m인 직사각형 형태를 출력해보세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)
+* 문제 모음: 연습문제
+* 난이도: Level 1
