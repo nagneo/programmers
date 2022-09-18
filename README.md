@@ -447,3 +447,9 @@ Problem solving on a website 'Programmers'
 * 요약: JadenCase란 모든 단어의 첫 문자가 대문자이고, 그 외의 알파벳은 소문자인 문자열입니다. 단, 첫 문자가 알파벳이 아닐 때에는 이어지는 알파벳은 소문자로 쓰면 됩니다.  [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 * 문제 모음: 연습문제
 * 난이도: Level 2
+
+## 60. convertBinary - 이진 변환 반복하기
+
+* 요약: 0과 1로 이루어진 문자열이 주어질 때, 0을 제거하고 문자열의 길이를 2진수로 표현한다. 이를 반복해 1이 될 때까지 변환한 횟순와 제거된 0의 갯수를 반환하는 함수를 작성하세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
+* 문제 모음: 연습문제
+* 난이도: Level 2
