@@ -441,3 +441,9 @@ Problem solving on a website 'Programmers'
 * 요약: 문자열 s에는 공백으로 구분된 숫자들이 저장되어 있습니다. str에 나타나는 숫자 중 최소값과 최대값을 찾아 이를 "(최소값) (최대값)"형태의 문자열을 반환하는 함수, solution을 완성하세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
 * 문제 모음: 연습문제
 * 난이도: Level 2
+
+## 59. jadenCase - JadenCase 문자열 만들기 
+
+* 요약: JadenCase란 모든 단어의 첫 문자가 대문자이고, 그 외의 알파벳은 소문자인 문자열입니다. 단, 첫 문자가 알파벳이 아닐 때에는 이어지는 알파벳은 소문자로 쓰면 됩니다.  [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+* 문제 모음: 연습문제
+* 난이도: Level 2
