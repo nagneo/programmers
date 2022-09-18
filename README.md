@@ -435,3 +435,9 @@ Problem solving on a website 'Programmers'
 별(*) 문자를 이용해 가로의 길이가 n, 세로의 길이가 m인 직사각형 형태를 출력해보세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)
 * 문제 모음: 연습문제
 * 난이도: Level 1
+
+## 58. minMax - 최댓값과 최솟값 
+
+* 요약: 문자열 s에는 공백으로 구분된 숫자들이 저장되어 있습니다. str에 나타나는 숫자 중 최소값과 최대값을 찾아 이를 "(최소값) (최대값)"형태의 문자열을 반환하는 함수, solution을 완성하세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+* 문제 모음: 연습문제
+* 난이도: Level 2
