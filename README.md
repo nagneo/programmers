@@ -472,3 +472,10 @@ Problem solving on a website 'Programmers'
 * 요약:  수학 공부를 하던 Finn은 자연수 n을 연속한 자연수들로 표현 하는 방법이 여러개라는 사실을 알게 되었습니다. 자연수 n이 매개변수로 주어질 때, 연속된 자연수들로 n을 표현하는 방법의 수를 return하는 solution를 완성해주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
 * 문제 모음: 연습문제
 * 난이도: Level 2
+
+
+## 63. fibonacci - 피보나치 수열
+
+* 요약:2 이상의 n이 입력되었을 때, n번째 피보나치 수를 1234567으로 나눈 나머지를 리턴하는 함수, solution을 완성해 주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+* 문제 모음: 연습문제
+* 난이도: Level 2
