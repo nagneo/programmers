@@ -466,3 +466,9 @@ Problem solving on a website 'Programmers'
 * 요약: '(' 또는 ')' 로만 이루어진 문자열 s가 주어졌을 때, 문자열 s가 올바른 괄호이면 true를 return 하고, 올바르지 않은 괄호이면 false를 return 하는 solution 함수를 완성해 주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 * 문제 모음: 연습문제
 * 난이도: Level 2
+
+## 62. numberDivision - 숫자의 표현
+
+* 요약:  수학 공부를 하던 Finn은 자연수 n을 연속한 자연수들로 표현 하는 방법이 여러개라는 사실을 알게 되었습니다. 자연수 n이 매개변수로 주어질 때, 연속된 자연수들로 n을 표현하는 방법의 수를 return하는 solution를 완성해주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
+* 문제 모음: 연습문제
+* 난이도: Level 2
