@@ -479,3 +479,13 @@ Problem solving on a website 'Programmers'
 * 요약:2 이상의 n이 입력되었을 때, n번째 피보나치 수를 1234567으로 나눈 나머지를 리턴하는 함수, solution을 완성해 주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
 * 문제 모음: 연습문제
 * 난이도: Level 2
+
+## 64. nextLargeNumber - 다음으로 큰 숫자
+* 요약:2 이상의 n이 입력되었을 때, n번째 피보나치 수를 1234567으로 나눈 나머지를 리턴하는 함수, solution을 완성해 주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+* 문제 모음: 연습문제
+* 난이도: Level 2
+
+## 65. carpet - 카펫
+* 요약:테두리 1줄은 갈색이고 그 안은 노란색인 카펫이 있습니다. 색 격자의 수 brown, 노란색 격자의 수 yellow가 매개변수로 주어질 때 카펫의 가로, 세로 크기를 순서대로 배열에 담아 return 하도록 solution 함수를 작성해주세요. [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+* 문제 모음: 완전 탐색
+* 난이도: Level 2
