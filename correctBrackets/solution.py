@@ -12,8 +12,8 @@ def solution(s):
     elif ch == ")":
       if not bracket:
         return False
-      poped = bracket.pop()
-      if poped != "(":
+      popped = bracket.pop()
+      if popped != "(":
         return False
   
   return len(bracket) == 0
